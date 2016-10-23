@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": true,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "net.mobing.game.XyuMud",
+  "startScene": "0c982f65-17c2-4fa8-842e-53769fe01c3e",
+  "title": "XyuMud",
+  "webOrientation": "auto"
+}
