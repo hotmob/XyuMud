@@ -14,7 +14,8 @@
     "AudioSource",
     "Animation",
     "MotionStreak",
-    "Collider"
+    "Collider",
+    "ParticleSystem"
   ],
   "group-list": [
     "default"
