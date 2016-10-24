@@ -1,12 +1,23 @@
 {
-  "start-scene": "current",
-  "group-list": [
-    "default"
-  ],
   "collision-matrix": [
     [
       true
     ]
   ],
-  "excluded-modules": []
+  "excluded-modules": [
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "TiledMap",
+    "Spine Skeleton",
+    "EditorBox",
+    "VideoPlayer",
+    "AudioSource",
+    "Animation",
+    "MotionStreak",
+    "Collider"
+  ],
+  "group-list": [
+    "default"
+  ],
+  "start-scene": "0c982f65-17c2-4fa8-842e-53769fe01c3e"
 }
